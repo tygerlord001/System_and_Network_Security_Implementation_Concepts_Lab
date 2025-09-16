@@ -19,5 +19,5 @@
 ---
 
 ## Lab Topology
-<img width="355" height="298" alt="image" src="https://github.com/user-attachments/assets/9996fca3-afeb-41d0-93b9-f96844e68e09" />
+<img width="655" height="598" alt="image" src="https://github.com/user-attachments/assets/9996fca3-afeb-41d0-93b9-f96844e68e09" />
 
