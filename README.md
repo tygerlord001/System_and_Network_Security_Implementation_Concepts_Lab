@@ -2,7 +2,9 @@
 
 ### Module Exercises:
 1 - Log Collection with Splunk
+
 2 - Encrypting Sensitive Data
+
 3 - Enable Multifactor Authentication
 
 ### To-do:
